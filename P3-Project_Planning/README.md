@@ -24,5 +24,5 @@ Include a link to your public Trello board. Be sure you have user stories added 
 https://team-seedsdb.monday.com/boards/4360149223
 
 ### Project Repo Link
-https://github.com/alexrod1912/liftoff-assignments
+https://github.com/tiaraburtin/GardenTracker
 Include a link to your project on GitHub.
